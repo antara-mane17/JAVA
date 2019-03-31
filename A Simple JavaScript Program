@@ -1,0 +1,3 @@
+You should place all your JavaScript code within <script> tags (<script> and </script>) if you are keeping your JavaScript code within the HTML document itself. This helps your browser distinguish your JavaScript code from the rest of the code. As there are other client-side scripting languages (Example: VBScript), it is highly recommended that you specify the scripting language you use.  You have to use the type attribute within the <script> tag and set its value to text/javascript like this:
+
+<script type="text/javascript">
