@@ -1,0 +1,11 @@
+JavaScript Array Methods
+The Array object has many properties and methods which help developers to handle arrays easily and efficiently. You can get the value of a property by specifying arrayname.property and the output of a method by specifying arrayname.method().
+
+
+length property --> If you want to know the number of elements in an array, you can use the length property.
+prototype property --> If you want to add new properties and methods, you can use the prototype property.
+reverse method --> You can reverse the order of items in an array using a reverse method.
+sort method --> You can sort the items in an array using sort method.
+pop method --> You can remove the last item of an array using a pop method.
+shift method --> You can remove the first item of an array using shift method.
+push method --> You can add a value as the last item of the array.
